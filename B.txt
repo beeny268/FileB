@@ -1,1 +1,2 @@
 this is file description for B
+updated version B
